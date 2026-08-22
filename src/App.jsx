@@ -9,7 +9,7 @@ import RecoveryQuiz from './pages/RecoveryQuiz';
 
 function App() {
   return (
-    <BrowserRouter basename="/taxi-exam-app">
+    <BrowserRouter basename="/taxi-preparation-pro">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<QuestionBank />} />
