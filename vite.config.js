@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/taxi-exam-app/', // GitHub Pages base path
+  base: '/taxi-preparation-pro/', // GitHub Pages base path
 })
